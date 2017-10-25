@@ -7,7 +7,7 @@ A package for drawing pretty heatmaps in R. The ordinary heatmap function in R h
 
 To install the CRAN version use just 
 ```S
-install.packages(pheatmap)
+install.packages("pheatmap")
 ```
 You can install the development version using `devtools`
 ```S
